@@ -1,0 +1,3 @@
+Estimação pontual e por intervalo
+ Estimação da média (variável resposta);
+ Estimação da variância (variável resposta).
